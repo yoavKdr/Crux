@@ -1,0 +1,5 @@
+var:i64 a = 3.1;
+a += 3;
+var b = 4;
+var c = 2;
+var:i64 d = a*b*c;
